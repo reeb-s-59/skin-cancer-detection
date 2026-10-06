@@ -1,0 +1,9 @@
+{
+  "model_name": "DenseNet121",
+  "img_size": [224, 224],
+  "accuracy": 0.790323,
+  "precision": 0.828571,
+  "recall": 0.805556,
+  "f1": 0.816901,
+  "roc_auc": 0.873932
+}
